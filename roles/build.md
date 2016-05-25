@@ -2,10 +2,12 @@
 
 ## Purpose
 
-Optimize the build pipeline.
+Optimize and maintain the build pipeline.
 
 ## Filled by
 
 ## Accountabilities
 
-- Continuously improve the build pipeline, so it supports *Software Developer* as best as possible.
+- Create new builds on request of *Software Developer*.
+- Ensure *Software Developer* gets fast and reliable feedback from builds, including failures when tests fails.
+- Continuously improve the build pipeline, so it uses the best possible tool for the job.
