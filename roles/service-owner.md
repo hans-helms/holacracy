@@ -4,6 +4,12 @@
 Responsible for the technical design, implementation and architechture of a service
 
 ## Filled by
+- Selfservice:
+- QueueFront, Forecaster:
+- Notification, Change Notification Monitor:
+- Statistics Service:
+- Performance Consumer:
+- Other: 
 
 ## Accountabilities
 - Defining the application architechture and design priciples applied to the service
