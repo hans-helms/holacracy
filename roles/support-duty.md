@@ -12,4 +12,4 @@
 ## Accountabilities
 
 - Be available on scheduled times to monitor and fix problems in production.
-- Receive error notifications and classify them as urgent or normal priority.
+- Handle unanswered support requests.
