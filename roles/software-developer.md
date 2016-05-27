@@ -16,7 +16,7 @@ Design, write and test software as well as contribute to innovation and the deve
 ## Accountabilities
 
 - Implementing stories from the backlog while enforcing the definition of done.
-- Writing new code in line with current standards defined by the *Application Architecture* role.
+- Writing new code, remove code and change existing code in any service when applying standards defined by the Service Owner role
 - Refactoring existing code when touching it, so that it is closer to current standards defined by the *Component Architecture* role.
 - Writing unit tests, integration tests and UI tests in line with coverage targets and best practices set by the *Tester* Role.
 - Deploying software to all environments.
