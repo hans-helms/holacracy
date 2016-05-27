@@ -1,4 +1,4 @@
-# Quality Manager
+# Quality
 
 ## Purpose
 
