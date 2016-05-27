@@ -6,8 +6,8 @@ Responsible for the technical design, implementation and architechture of a serv
 ## Filled by
 
 ## Accountabilities
-- Defining the architechture and design priciples applied to the service
-- Enforcing architechture, design patterns and code quality of the service
+- Defining the application architechture and design priciples applied to the service
+- Enforcing application architechture, design patterns and code quality of the service
 - Working with the [Component Architechture](https://github.com/queueit/holacracy/blob/master/roles/component-architecture.md) 
   role to define and implement the interface and integrate with AWS and 3rd party service
 - Ensuring that the business requirements are implemented as defined by the 
