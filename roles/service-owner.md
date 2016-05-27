@@ -1,4 +1,4 @@
-# Technical Service Owner
+# Service Owner
 
 ## Purpose
 Responsible for the technical design, implementation and architechture of a service
