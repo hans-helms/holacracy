@@ -1,7 +1,7 @@
 # Backlog
 
 ## Purpose
-Mangage stories and backlog
+Manage stories and backlog
 
 ## Filled by
 - frwi
