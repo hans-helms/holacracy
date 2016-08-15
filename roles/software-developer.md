@@ -13,6 +13,7 @@ Design, write and test software as well as contribute to innovation and the deve
 - mosa
 - sala
 - paav
+- vina
 
 ## Accountabilities
 
