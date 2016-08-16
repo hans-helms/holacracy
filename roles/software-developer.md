@@ -11,7 +11,7 @@ Design, write and test software as well as contribute to innovation and the deve
 - mala
 - mope
 - mosa
-- sala
+- sana
 - paav
 - vina
 
