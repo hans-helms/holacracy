@@ -5,6 +5,7 @@
 Defining and enforcing standards for end user experience of Queue-it software products.
 
 ## Filled by
+ - paav
 
 ## Accountabilities
 
