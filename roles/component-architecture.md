@@ -5,6 +5,7 @@
 To define and maintain the high level component architecture of the system.
 
 ## Filled by
+ - mala
 
 ## Accountabilities
 
