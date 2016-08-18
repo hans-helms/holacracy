@@ -5,6 +5,7 @@
 Maintain a technology stack that enables rapid development and integrity of the codebase and supports team members in their daily work
 
 ## Filled by
+ - mope
 
 ## Accountabilities
 
