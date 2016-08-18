@@ -4,6 +4,7 @@
 To collect feedback from customers and other 3rd party stakeholders and bring it to the development team
 
 ## Filled by
+ - mala
 
 ## Accountabilities
 - Working with [Client Managers](https://github.com/queueit/holacracy/blob/master/roles/client-manager.md), 
