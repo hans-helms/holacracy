@@ -4,12 +4,12 @@
 Responsible for the technical design, implementation and architechture of a service
 
 ## Filled by
-- Selfservice:
-- QueueFront, Forecaster:
-- Notification, Change Notification Monitor:
-- Statistics Service:
-- Performance Consumer:
-- Other: 
+- Selfservice, Api: alya
+- QueueFront, QueueCache, Forecaster: mosa
+- Notification, Change Notification Monitor: frwi
+- Statistics Service, Statistics Measure Reporter: mosa 
+- Performance Timings Consumer: mope
+- Config Data Replicator, Event Lifecycle Manager: mala 
 
 ## Accountabilities
 - Defining the application architechture and design priciples applied to the service
