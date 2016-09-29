@@ -18,5 +18,5 @@ Responsible for the technical design, implementation and architechture of a serv
   role to define and implement the interface and integrate with AWS and 3rd party service
 - Ensuring that the business requirements are implemented as defined by the 
   [Product Owner](https://github.com/queueit/holacracy/blob/master/roles/product-owner.md)
-
+- Ensuring that the service performs and scales to demand
 
